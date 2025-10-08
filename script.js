@@ -37,11 +37,13 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('scroll', function() {
         const navbar = document.querySelector('.navbar');
         if (window.scrollY > 100) {
-            navbar.style.background = 'rgba(255, 255, 255, 0.95)';
-            navbar.style.borderBottom = '1px solid rgba(0, 0, 0, 0.1)';
+            navbar.style.background = 'rgba(26, 11, 46, 0.95)';
+            navbar.style.borderBottom = '1px solid rgba(168, 85, 247, 0.4)';
+            navbar.style.boxShadow = '0 4px 20px rgba(147, 51, 234, 0.3)';
         } else {
-            navbar.style.background = 'rgba(255, 255, 255, 0.8)';
-            navbar.style.borderBottom = '1px solid rgba(0, 0, 0, 0.1)';
+            navbar.style.background = 'rgba(26, 11, 46, 0.9)';
+            navbar.style.borderBottom = '1px solid rgba(147, 51, 234, 0.3)';
+            navbar.style.boxShadow = '0 4px 20px rgba(147, 51, 234, 0.2)';
         }
     });
 
