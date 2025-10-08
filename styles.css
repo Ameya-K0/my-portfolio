@@ -830,9 +830,10 @@ section {
 /* Floating stars */
 .star {
     position: absolute;
-    background: white;
+    background: #ffffff;
     border-radius: 50%;
     animation: twinkle 3s infinite;
+    box-shadow: 0 0 6px rgba(255, 255, 255, 0.8);
 }
 
 .star:nth-child(1) { width: 2px; height: 2px; top: 20%; left: 10%; animation-delay: 0s; }
