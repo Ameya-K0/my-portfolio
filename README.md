@@ -1,10 +1,10 @@
-# Ameya's Electrical Engineering Portfolio
+# Ameya Kumthekar's Electrical Engineering Portfolio
 
 A clean, Apple-inspired portfolio website showcasing electrical engineering projects, skills, and experience. Built with modern web technologies and optimized for GitHub Pages deployment.
 
 ## 🚀 Live Demo
 
-Visit the live site: [Your Portfolio](https://yourusername.github.io/my-portfolio)
+Visit the live site: [Ameya's Portfolio](https://ameyakumthekar.github.io/my-portfolio)
 
 ## ✨ Features
 
@@ -62,7 +62,7 @@ my-portfolio/
    - Push your changes to GitHub
    - Go to repository Settings → Pages
    - Select "Deploy from a branch" and choose "main"
-   - Your site will be available at `https://yourusername.github.io/my-portfolio`
+   - Your site will be available at `https://ameyakumthekar.github.io/my-portfolio`
 
 ## 🎨 Customization Guide
 
@@ -151,10 +151,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact
 
-- Email: your.email@university.edu
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: ameyakumthekar@gmail.com
+- Phone: +1 (403) 437-4239
+- LinkedIn: [linkedin.com/in/ameya](https://linkedin.com/in/ameya)
+- University: University of British Columbia
 
 ---
 
-**Made with ❤️ by Ameya - Electrical Engineering Student**
+**Made with ❤️ by Ameya Kumthekar - Electrical Engineering Student at UBC**

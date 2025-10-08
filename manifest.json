@@ -1,7 +1,7 @@
 {
-    "name": "Ameya's Electrical Engineering Portfolio",
+    "name": "Ameya Kumthekar's Electrical Engineering Portfolio",
     "short_name": "Ameya Portfolio",
-    "description": "Electrical Engineering student portfolio showcasing projects, skills, and experience",
+    "description": "Electrical Engineering student at UBC specializing in embedded systems, FPGA programming, and engineering design teams",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
